@@ -1,0 +1,8 @@
+#ignore files
+
+.vs/
+/Debug/
+*.sln
+*.vcxproj
+*.filters
+*.dll
